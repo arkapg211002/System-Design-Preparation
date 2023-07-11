@@ -56,11 +56,11 @@
 
 | Sno | Status | LLD patterns | Related Questions |
 |:--:|:--:|:--:|:--:|
-|1 || `Strategy pattern` | SOLID principles |
-|2 || `Observer Pattern` | Design Notify-Me Button Functionality |
-|3 || `Decorator Pattern` | Design  Pizza Billing System |
-|4 || `Factory Pattern` | Design  Parking Lot |
-|5 || `Abstract Factory Pattern` | Design  Snake n Ladder game |
+|1 |&#x2611; | `Strategy pattern` | SOLID principles |
+|2 |&#x2611; | `Observer Pattern` | Design Notify-Me Button Functionality |
+|3 |&#x2611; | `Decorator Pattern` | Design  Pizza Billing System |
+|4 |&#x2611; | `Factory Pattern` | Design  Parking Lot |
+|5 |&#x2611; | `Abstract Factory Pattern` | Design  Snake n Ladder game |
 |6 || `Chain of Responsibility Pattern` | Design Elevator System |
 |7 || `Proxy Pattern` | Design Car Rental System |
 |8 || `Null Object Pattern` | Design Logging System |
