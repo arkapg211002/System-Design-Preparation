@@ -67,8 +67,8 @@
 |9 |&#x2611; | `State Pattern` | Design Tic-Tac-Toe game |
 |10|&#x2611; | `Composite Pattern` | Design BookMyShow & Concurrency handling |
 |11|&#x2611; | `Adapter Pattern` | Design Vending Machine |
-|12|| `Singleton Pattern` | Design ATM |
-|13|| `Builder Pattern` | Design Chess game |
+|12|&#x2611; | `Singleton Pattern` | Design ATM |
+|13|&#x2611; | `Builder Pattern` | Design Chess game |
 |14|| `Prototype Pattern` | Design File System |
 |15|| `Bridge Pattern` | Design Splitwise |
 |16|| `Façade Pattern` | Splitwise Simplify Algorithm / Optimal Accounting Balancing |
