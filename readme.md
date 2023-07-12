@@ -61,8 +61,8 @@
 |3 |&#x2611; | `Decorator Pattern` | Design  Pizza Billing System |
 |4 |&#x2611; | `Factory Pattern` | Design  Parking Lot |
 |5 |&#x2611; | `Abstract Factory Pattern` | Design  Snake n Ladder game |
-|6 || `Chain of Responsibility Pattern` | Design Elevator System |
-|7 || `Proxy Pattern` | Design Car Rental System |
+|6 |&#x2611; | `Chain of Responsibility Pattern` | Design Elevator System |
+|7 |&#x2611; | `Proxy Pattern` | Design Car Rental System |
 |8 || `Null Object Pattern` | Design Logging System |
 |9 || `State Pattern` | Design Tic-Tac-Toe game |
 |10|| `Composite Pattern` | Design BookMyShow & Concurrency handling |
