@@ -63,10 +63,10 @@
 |5 |&#x2611; | `Abstract Factory Pattern` | Design  Snake n Ladder game |
 |6 |&#x2611; | `Chain of Responsibility Pattern` | Design Elevator System |
 |7 |&#x2611; | `Proxy Pattern` | Design Car Rental System |
-|8 || `Null Object Pattern` | Design Logging System |
-|9 || `State Pattern` | Design Tic-Tac-Toe game |
-|10|| `Composite Pattern` | Design BookMyShow & Concurrency handling |
-|11|| `Adapter Pattern` | Design Vending Machine |
+|8 |&#x2611; | `Null Object Pattern` | Design Logging System |
+|9 |&#x2611; | `State Pattern` | Design Tic-Tac-Toe game |
+|10|&#x2611; | `Composite Pattern` | Design BookMyShow & Concurrency handling |
+|11|&#x2611; | `Adapter Pattern` | Design Vending Machine |
 |12|| `Singleton Pattern` | Design ATM |
 |13|| `Builder Pattern` | Design Chess game |
 |14|| `Prototype Pattern` | Design File System |
