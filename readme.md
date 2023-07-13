@@ -69,13 +69,13 @@
 |11|&#x2611; | `Adapter Pattern` | Design Vending Machine |
 |12|&#x2611; | `Singleton Pattern` | Design ATM |
 |13|&#x2611; | `Builder Pattern` | Design Chess game |
-|14|| `Prototype Pattern` | Design File System |
-|15|| `Bridge Pattern` | Design Splitwise |
-|16|| `Façade Pattern` | Splitwise Simplify Algorithm / Optimal Accounting Balancing |
-|17|| `Flyweight Pattern` | Design CricBuzz / CricketInfo |
-|18|| `Command Pattern` | Design True Caller |
-|19|| `Interpreter Pattern` | Design Car Booking Service like Ola, Uber |
-|20|| `Iterator Pattern` | Design Online Hotel Booking System |
+|14|&#x2611; | `Prototype Pattern` | Design File System |
+|15|&#x2611; | `Bridge Pattern` | Design Splitwise |
+|16|&#x2611; | `Façade Pattern` | Splitwise Simplify Algorithm / Optimal Accounting Balancing |
+|17|&#x2611; | `Flyweight Pattern` | Design CricBuzz / CricketInfo |
+|18|&#x2611; | `Command Pattern` | Design True Caller |
+|19|&#x2611; | `Interpreter Pattern` | Design Car Booking Service like Ola, Uber |
+|20|&#x2611; | `Iterator Pattern` | Design Online Hotel Booking System |
 |21|| `Mediator Pattern` | Design Library Management System |
 |22|| `Memento Pattern` | Design  Traffic Light System |
 |23|| `Template Method Pattern` | Design Meeting Scheduler |
