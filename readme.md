@@ -76,10 +76,10 @@
 |18|&#x2611; | `Command Pattern` | Design True Caller |
 |19|&#x2611; | `Interpreter Pattern` | Design Car Booking Service like Ola, Uber |
 |20|&#x2611; | `Iterator Pattern` | Design Online Hotel Booking System |
-|21|| `Mediator Pattern` | Design Library Management System |
-|22|| `Memento Pattern` | Design  Traffic Light System |
-|23|| `Template Method Pattern` | Design Meeting Scheduler |
-|24|| `Visitor Pattern` | Design Online Voting System |
+|21|&#x2611; | `Mediator Pattern` | Design Library Management System |
+|22|&#x2611; | `Memento Pattern` | Design  Traffic Light System |
+|23|&#x2611; | `Template Method Pattern` | Design Meeting Scheduler |
+|24|&#x2611; | `Visitor Pattern` | Design Online Voting System |
 |25|| | Design Inventory Management System |
 |26|| | Design Cache Mechanism |
 |27|| | Design LinkedIn |
