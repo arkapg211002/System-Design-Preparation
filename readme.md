@@ -80,20 +80,20 @@
 |22|&#x2611; | `Memento Pattern` | Design  Traffic Light System |
 |23|&#x2611; | `Template Method Pattern` | Design Meeting Scheduler |
 |24|&#x2611; | `Visitor Pattern` | Design Online Voting System |
-|25|| | Design Inventory Management System |
-|26|| | Design Cache Mechanism |
-|27|| | Design LinkedIn |
-|28|| | Design Amazon |
-|29|| | Design Airline Management System |
-|30|| | Design Stock Exchange System |
-|31|| | Design Learning Management System |
-|32|| | Design a Calendar Application |
-|33|| | Design (LLD) Payment System |
-|34|| | Design (LLD) Chat based system |
-|35|| | Design Food delivery app like Swiggy and Zomato |
-|36|| | Design Community Discussion Platform |
-|37|| | Design Restaurant Management System |
-|38|| | Design Bowling Alley Machine |
-|39|| | Design (LLD) Rate Limiter |
+|25|&#x2611; | | [Design Inventory Management System](https://www.interviewready.io/blog/low-level-system-design-of-an-inventory-management-system) |
+|26|&#x2611; | | [Design Cache Mechanism](https://www.youtube.com/watch?v=B7iCXl_KSoM) |
+|27|&#x2611; | | Design LinkedIn |
+|28|&#x2611; | | Design Amazon |
+|29|&#x2611; | | Design Airline Management System |
+|30|&#x2611; | | Design Stock Exchange System |
+|31|&#x2611; | | Design Learning Management System |
+|32|&#x2611; | | Design a Calendar Application |
+|33|&#x2611; | | Design (LLD) Payment System |
+|34|&#x2611; | | Design (LLD) Chat based system |
+|35|&#x2611; | | Design Food delivery app like Swiggy and Zomato |
+|36|&#x2611; | | Design Community Discussion Platform |
+|37|&#x2611; | | Design Restaurant Management System |
+|38|&#x2611; | | Design Bowling Alley Machine |
+|39|&#x2611; | | Design (LLD) Rate Limiter |
 
 [other books of different levels](https://drive.google.com/drive/folders/1E0HFZHb5DZbiVWJcAuPQ0ENPhSBoEk7b?usp=drive_link)
